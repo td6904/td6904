@@ -1,3 +1,7 @@
-My name is Tyler and today is Saturday, 22 April at 17:08 CEST.
+# Welcome to my GitHUB 
+
+My name is Tyler. I'm a Back-end developer from Edinburgh, Scotland, currently living in Lille, France. 
+
+Today is Saturday, 22 April at 17:16 CEST.
 
 This README updates every hour (testing).
