@@ -9,8 +9,7 @@ My name is **Tyler**. I'm a Back-end developer from Edinburgh, Scotland, current
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-
-![react](here) 
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![react](here) 
 ![react](here) 
 ![react](here) 
@@ -33,4 +32,4 @@ The pinned repositories at the top of my profile, beginning with **'WildCodeScho
 
 ----
 
-<p align="center">Last automatic update on Friday, 28 April at 11:15 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
+<p align="center">Last automatic update on Friday, 28 April at 11:20 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
