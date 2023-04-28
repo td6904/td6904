@@ -12,4 +12,4 @@ The pinned repositories at the top of my profile, beginning with 'WildCodeSchool
 
 ----
 
-<p align="center">Last automatic update at Friday, 28 April at 10:52 CEST.\This *README* updates **every hour**
+<p align="center">Last automatic update at Friday, 28 April at 10:54 CEST.\This *<i>README</i>* updates **<b>every hour</b>**</p>
