@@ -4,7 +4,7 @@ My name is **Tyler**. I'm a Back-end developer from Edinburgh, Scotland, current
 
 #### Tech I code with
 
-![angular2](images/angular2.png) ![angular](images/angular.svg) ![react](images/react.svg) ![typescript](images/typescript.svg) ![node](images/node.svg) ![mongodb](images/mongodb.svg) ![git](images/git.svg) ![html](images/html.svg) ![prettier](images/prettier.svg) ![brave](images/brave.svg) 
+![angular2](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) ![angular](images/angular.svg) ![react](images/react.svg) ![typescript](images/typescript.svg) ![node](images/node.svg) ![mongodb](images/mongodb.svg) ![git](images/git.svg) ![html](images/html.svg) ![prettier](images/prettier.svg) ![brave](images/brave.svg) 
 
 #### Pinned repositories
 
