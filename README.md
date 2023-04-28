@@ -4,7 +4,7 @@ My name is **Tyler**. I'm a Back-end developer from Edinburgh, Scotland, current
 
 #### Tech I code with
 
-![angular](images/angular.svg) ![react](images/react.svg) ![typescript](images/typescript.svg) ![node](images/node.svg) ![mongodb](images/mongodb.svg) ![git](images/git.svg) ![html](images/html.svg) ![prettier](images/prettier.svg) ![brave](images/brave.svg) 
+![angular2](images/angular2.png) ![angular](images/angular.svg) ![react](images/react.svg) ![typescript](images/typescript.svg) ![node](images/node.svg) ![mongodb](images/mongodb.svg) ![git](images/git.svg) ![html](images/html.svg) ![prettier](images/prettier.svg) ![brave](images/brave.svg) 
 
 #### Pinned repositories
 
@@ -14,4 +14,4 @@ The pinned repositories at the top of my profile, beginning with **'WildCodeScho
 
 ----
 
-<p align="center">Last automatic update on Friday, 28 April at 10:58 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
+<p align="center">Last automatic update on Friday, 28 April at 11:04 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
