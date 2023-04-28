@@ -25,13 +25,14 @@ My name is **Tyler**. I'm a Back-end developer from Edinburgh, Scotland, current
 The pinned repositories at the top of my profile, beginning with **'WildCodeSchool/'**, are class group projects made during my time at the Wild Code School in Lille, France. @WildCodeSchool
 
 
-####Find me on:
+#### Find me on:
 
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/td6904)
+![ln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ### Have a great day! 😊
 
 ----
 
-<p align="center">Last automatic update on Friday, 28 April at 11:27 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
+<p align="center">Last automatic update on Friday, 28 April at 11:30 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
