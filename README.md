@@ -2,7 +2,7 @@
 
 My name is **Tyler**. I'm a Back-end developer from Edinburgh, Scotland, currently living in **Lille, France**. 
 
-#### Tech I code with
+#### Tech I code with:
 
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,17 +17,25 @@ My name is **Tyler**. I'm a Back-end developer from Edinburgh, Scotland, current
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) 
 ![brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white) 
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![]()
 
 
-#### Pinned repositories
+#### Pinned repositories:
 
-The pinned repositories at the top of my profile, beginning with **'WildCodeSchool/'**, are class group projects made during my time at the Wild Code School in Lille, France. @WildCodeSchool
+The pinned repositories at the top of my profile, beginning with **'WildCodeSchool/'**, are class group projects made during my time at the Wild Code School in Lille, France. Have a look at their main GitHUB page - https://github.com/WildCodeSchool
+
+
+
+![mostused](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 
 #### Find me on:
@@ -41,4 +49,4 @@ The pinned repositories at the top of my profile, beginning with **'WildCodeScho
 
 ----
 
-<p align="center">Last automatic update on Friday, 28 April at 11:37 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
+<p align="center">Last automatic update on Friday, 28 April at 11:46 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
