@@ -34,9 +34,8 @@ My name is **Tyler**. I'm a Back-end developer from Edinburgh, Scotland, current
 The pinned repositories at the top of my profile, beginning with **'WildCodeSchool/'**, are class group projects made during my time at the Wild Code School in Lille, France. Have a look at their main GitHUB page - https://github.com/WildCodeSchool
 
 
-
-![mostused](https://github-readme-stats.vercel.app/api/top-langs/?username=td6904&amp;layout=compact&amp;theme=buefy&amp;hide_border=true)
 ![tylerstats](https://github-readme-stats.vercel.app/api?username=td6904)
+![mostused](https://github-readme-stats.vercel.app/api/top-langs/?username=td6904&amp;layout=compact&amp;theme=buefy&amp;hide_border=true)
 
 
 #### Find me on:
@@ -50,5 +49,5 @@ The pinned repositories at the top of my profile, beginning with **'WildCodeScho
 
 ----
 
-<p align="center">Last automatic update on Friday, 28 April at 11:58 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
+<p align="center">Last automatic update on Friday, 28 April at 12:00 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
 
