@@ -10,8 +10,8 @@ My name is **Tyler**. I'm a Back-end developer from Edinburgh, Scotland, current
 
 The pinned repositories at the top of my profile, beginning with **'WildCodeSchool/'**, are class group projects made during my time at the Wild Code School in Lille, France. @WildCodeSchool
 
-## Have a great day! 😊
+### Have a great day! 😊
 
 ----
 
-<p align="center">Last automatic update on Friday, 28 April at 10:56 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
+<p align="center">Last automatic update on Friday, 28 April at 10:58 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
