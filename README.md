@@ -10,26 +10,28 @@ My name is **Tyler**. I'm a Back-end developer from Edinburgh, Scotland, current
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-![react](here) 
-![react](here) 
-![react](here) 
-![react](here) 
-![react](here) 
-
-
-![node](images/node.svg) 
-![mongodb](images/mongodb.svg) 
-![git](images/git.svg) 
-![html](images/html.svg) 
-![prettier](images/prettier.svg) 
-![brave](images/brave.svg) 
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) 
+![brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white) 
 
 #### Pinned repositories
 
 The pinned repositories at the top of my profile, beginning with **'WildCodeSchool/'**, are class group projects made during my time at the Wild Code School in Lille, France. @WildCodeSchool
 
+
+####Find me on:
+
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+
+
 ### Have a great day! 😊
 
 ----
 
-<p align="center">Last automatic update on Friday, 28 April at 11:20 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
+<p align="center">Last automatic update on Friday, 28 April at 11:27 CEST.<br>This <i>README</i> updates <b>every hour</b></p>
