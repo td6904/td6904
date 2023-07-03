@@ -37,6 +37,9 @@ The pinned repositories at the top of my profile, beginning with **'WildCodeScho
 ![tylerstats](https://github-readme-stats.vercel.app/api?username=td6904)
 ![mostused](https://github-readme-stats.vercel.app/api/top-langs/?username=td6904&amp;layout=compact&amp;theme=buefy&amp;hide_border=true)
 
+#### Day in a dev timeline - Tyler's Roadmap:
+
+I like to keep track of my progress and keep a journal of what I get up to on a daily basis. Take a look at my [Notion](https://gentle-xylocarp-805.notion.site/Day-in-a-dev-Tyler-s-Roadmap-Timeline-c93346d6997b49e591d094d361539337?pvs=4) page to see what I've been doing today!
 
 #### Find me on:
 
@@ -49,5 +52,5 @@ The pinned repositories at the top of my profile, beginning with **'WildCodeScho
 
 ----
 
-<p align="center">Last automatic update on Monday, 3 July at 03:06 CEST.<br>This <i>README</i> updates <b>every 24 hours</b></p>
+<p align="center">Last automatic update on Monday, 3 July at 16:37 CEST.<br>This <i>README</i> updates <b>every 24 hours</b></p>
 
