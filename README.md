@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHUB 
 
-My name is **Tyler**. I'm a Back-end developer from Edinburgh, Scotland, currently living in **Lille, France**. 
+My name is **Tyler**. I'm a IT Operations Technician from Edinburgh, Scotland, currently living in **Lille, France**. 
 
 #### Tech I code with:
 
@@ -49,5 +49,5 @@ The pinned repositories at the top of my profile, beginning with **'WildCodeScho
 
 ----
 
-<p align="center">Last automatic update on Monday, 28 August at 02:44 CEST.<br>This <i>README</i> updates <b>every 24 hours</b></p>
+<p align="center">Last automatic update on Thursday, 7 September at 13:31 CEST.<br>This <i>README</i> updates <b>every 24 hours</b></p>
 
