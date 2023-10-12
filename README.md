@@ -21,6 +21,7 @@ My name is **Tyler**. I'm an IT Operations Technician from Edinburgh, Scotland, 
 ![elasticS](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 #### Tech I've code with in the past:
 
@@ -59,6 +60,5 @@ The pinned repositories at the top of my profile, beginning with **'WildCodeScho
 
 ----
 
-<p align="center">Last automatic update on Thursday, 12 October at 15:56 CEST.<br>This <i>README</i> updates <b>every 2 weeks</b></p>
-
+<p align="center">Last automatic update on Thursday, 12 October at 16:02 CEST.<br>This <i>README</i> updates <b>every 2 weeks</b></p>
 
